@@ -8,6 +8,7 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/core.css" rel="stylesheet">
 	<link rel="shortcut icon" href="image/favicon.ico" type="image/x-icon"/>
 	
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

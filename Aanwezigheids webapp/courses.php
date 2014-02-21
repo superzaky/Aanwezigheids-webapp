@@ -16,6 +16,7 @@ require ('includes/header.php');
         </div>
         <button type="submit" class="btn btn-default">Submit</button>
     </form>
+    <div id="leftside_menu">
     <div class="col-md-4 col-lg-offset-0">
         <ul class="nav nav-pills nav-stacked">
             <li><a href="#">Jaar 1</a></li>
@@ -24,6 +25,7 @@ require ('includes/header.php');
             <li><a href="#">Jaar 4</a></li>
         </ul> 
     </div>
+        </div>
     <?php
 
 } else {
